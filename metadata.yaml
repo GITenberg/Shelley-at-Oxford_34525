@@ -1,0 +1,40 @@
+_repo: Shelley-at-Oxford_34525
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Streatfeild, R. A. (Richard Alexander)
+    alias: Streatfeild, Richard Alexander
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6569'
+    url: http://www.gutenberg.org/2009/agents/6569
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hogg, Thomas Jefferson
+    alias: Hogg, Jefferson
+    birthdate: 1792
+    deathdate: 1862
+    gutenberg_agent_id: '37067'
+    url: http://www.gutenberg.org/2009/agents/37067
+description: ''
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34525'
+  lccn: 06009636
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Oxford -- Biography'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Childhood and youth'
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Homes and haunts -- England -- Oxford'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Oxford (England) -- Intellectual life -- 19th century'
+title: Shelley at Oxford
+url: http://www.gutenberg.org/ebooks/34525
